@@ -5,9 +5,9 @@ through node-jshint.
 
 Inspired by:
 
-* [https://github.com/daleharvey/jshint-mode]
-* [http://www.emacswiki.org/emacs/FlymakeJavaScript]
-* [http://lapin-bleu.net/riviera/?p=191]
+* https://github.com/daleharvey/jshint-mode
+* http://www.emacswiki.org/emacs/FlymakeJavaScript
+* http://lapin-bleu.net/riviera/?p=191
 
 ## Dependencies
 
